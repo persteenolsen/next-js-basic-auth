@@ -13,7 +13,7 @@ function Home() {
 
     return (
         <div className="card mt-4">
-            <h4 className="card-header">You&apos;re logged in with Next.js 11 & Basic HTTP Authentication!!</h4>
+            <h4 className="card-header">You&apos;re logged in with Next.js 15 & Basic HTTP Authentication!!</h4>
             <div className="card-body">
                 <h6>Users from secure api end point</h6>
                 {users &&

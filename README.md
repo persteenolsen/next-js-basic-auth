@@ -1,7 +1,15 @@
-# next-js-11-basic-authentication
+# next-js-basic-auth
 
-Next.js 11 - Basic HTTP Authentication
+Next.js 15 - Basic HTTP Authentication
 
-Hosted at Netlify
+Last Updated: 30-11-2024
+
+Hosted at Vercel
 
 Volta for Node Version Management
+
+Tech Used for this Web App
+
+- Node 22.11.0
+- Next 15.0.3
+- React 18.3.1
