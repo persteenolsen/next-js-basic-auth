@@ -2,7 +2,7 @@
 
 Next.js 15 - Basic HTTP Authentication
 
-Last Updated: 30-11-2024
+Last Updated: 05-06-2025
 
 Hosted at Vercel
 
